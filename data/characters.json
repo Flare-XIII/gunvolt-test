@@ -1,0 +1,124 @@
+{
+    "characters": [
+        {
+            "id": 1,
+            "name": "Gunvolt",
+            "japanese name": "ガンヴォルト (Gannvoruto)",
+            "status": "Unknown",
+            "games": "Azure Striker Gunvolt, Azure Striker Gunvolt 2, Azure Striker Gunvolt 3",
+            "img": "https://static.wikia.nocookie.net/azurestrikergunvolt/images/5/54/Gunvolt_Artwork.png/revision/latest?cb=20161029062754"
+        },
+        {
+            "id": 2,
+            "name": "Joule",
+            "japanese name": "Cyan (シアン, Shian)",
+            "status": "Merged with Mytyl",
+            "games": "Azure Striker Gunvolt, Azure Striker Gunvolt 2, Azure Striker Gunvolt 3",
+            "img": "https://static.wikia.nocookie.net/azurestrikergunvolt/images/f/fa/Joule.png/revision/latest?cb=20160910094009"
+        },
+        {
+            "id": 3,
+            "name": "Lumen",
+            "japanese name": "Morpho (モルフォ, Morufo)",
+            "status": "Unclear",
+            "games": "Azure Striker Gunvolt, Azure Striker Gunvolt 3, GUNVOLT RECORDS Cychronicles",
+            "img": "https://static.wikia.nocookie.net/azurestrikergunvolt/images/5/57/Morpho2.png/revision/latest?cb=20170205080846"
+        },
+        {
+            "id": 4,
+            "name": "Asimov",
+            "japanese name": "アシモフ",
+            "status": "Deceased",
+            "games": "Azure Striker Gunvolt, Azure Striker Gunvolt 3",
+            "img": "https://static.wikia.nocookie.net/azurestrikergunvolt/images/f/f4/Asimov.png/revision/latest?cb=20160910093235"
+        },
+        {
+            "id": 5,
+            "name": "Zeno",
+            "japanese name": "Gino (ジーノ, Jiino)",
+            "status": "Alive",
+            "games": "Azure Striker Gunvolt",
+            "img": "https://static.wikia.nocookie.net/azurestrikergunvolt/images/c/c1/Zeno.png/revision/latest?cb=20160910095302"
+        },
+        {
+            "id": 6,
+            "name": "Moniqa",
+            "japanese name": "Monica (モニカ)",
+            "status": "Alive",
+            "games": "Azure Striker Gunvolt",
+            "img": "https://static.wikia.nocookie.net/azurestrikergunvolt/images/0/0e/Moniqa.png/revision/latest?cb=20160910094749"
+        },
+        {
+            "id": 7,
+            "name": "Nova Tsukuyomi",
+            "japanese name": "月読紫電 (Tsukuyomi Shiden)",
+            "status": "Deceased",
+            "games": "Azure Striker Gunvolt",
+            "img": "https://static.wikia.nocookie.net/azurestrikergunvolt/images/0/0b/Nova.png/revision/latest?cb=20160910092601"
+        },
+        {
+            "id": 8,
+            "name": "Merak",
+            "japanese name": "メラク (Meraku)",
+            "status": "Deceased",
+            "games": "Azure Striker Gunvolt, Azure Striker Gunvolt 3",
+            "img": "https://static.wikia.nocookie.net/azurestrikergunvolt/images/6/67/Merak_-_Septima.png/revision/latest?cb=20210319042320"
+        },
+        {
+            "id": 9,
+            "name": "Jota",
+            "japanese name": "イオタ (Iota)",
+            "status": "Deceased",
+            "games": "Azure Striker Gunvolt",
+            "img": "https://static.wikia.nocookie.net/azurestrikergunvolt/images/8/84/Jota_-_Septima.png/revision/latest?cb=20160910093917"
+        },
+        {
+            "id": 10,
+            "name": "Viper",
+            "japanese name": "Daytona (デイトナ, Deitona)",
+            "status": "Deceased",
+            "games": "Azure Striker Gunvolt",
+            "img": "https://static.wikia.nocookie.net/azurestrikergunvolt/images/7/7e/Viper_-_Septima.png/revision/latest?cb=20160910093844"
+        },
+        {
+            "id": 11,
+            "name": "Carrera",
+            "japanese name": "カレラ (Karera)",
+            "status": "Deceased",
+            "games": "Azure Striker Gunvolt",
+            "img": "https://static.wikia.nocookie.net/azurestrikergunvolt/images/7/73/Carrera_-_Septima.png/revision/latest?cb=20160910093505"
+        },
+        {
+            "id": 12,
+            "name": "Elise",
+            "japanese name": "エリーゼ (Eriize)",
+            "status": "Deceased",
+            "games": "Azure Striker Gunvolt",
+            "img": "https://static.wikia.nocookie.net/azurestrikergunvolt/images/2/22/Elise_-_Septima.png/revision/latest?cb=20160910093726"
+        },
+        {
+            "id": 13,
+            "name": "Stratos",
+            "japanese name": "ストラトス (Sutoratosu)",
+            "status": "Deceased",
+            "games": "Azure Striker Gunvolt",
+            "img": "https://static.wikia.nocookie.net/azurestrikergunvolt/images/b/b1/STRATOS_-_Septima.png/revision/latest?cb=20161029063849"
+        },
+        {
+            "id": 14,
+            "name": "Copen Kamizono",
+            "japanese name": "Acura Kamizono (神園アキュラ, Kamizono Akyura)",
+            "status": "Alive",
+            "games": "Azure Striker Gunvolt, Azure Striker Gunvolt 2",
+            "img": "https://static.wikia.nocookie.net/azurestrikergunvolt/images/5/55/Copen.png/revision/latest?cb=20160910093555"
+        },
+        {
+            "id": 15,
+            "name": "Zonda",
+            "japanese name": "Pantera (パンテーラ, Panteera)",
+            "status": "Deceased",
+            "games": "Azure Striker Gunvolt, Azure Striker Gunvolt 2",
+            "img": "https://static.wikia.nocookie.net/azurestrikergunvolt/images/c/c4/MF-T.png/revision/latest?cb=20190812223922"
+        }
+    ]
+}
